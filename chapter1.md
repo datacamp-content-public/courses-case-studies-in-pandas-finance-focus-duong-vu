@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Comparing two trading strategies: Technical vs. Fundamental analysis
+
+```yaml
+type: VideoExercise
+key: 1750d82a05
+xp: 50
+```
+
+`@projector_key`
+4a3d2de89bb0656e8e954ca2a1347674
