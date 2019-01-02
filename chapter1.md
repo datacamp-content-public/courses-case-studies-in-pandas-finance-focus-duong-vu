@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Comparing two trading strategies: Technical vs. Fundamental analysis
+## Comparing two trading strategies: Technical vs. Fundamental Analysis
 
 ```yaml
 type: VideoExercise
